@@ -9,5 +9,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithsaggy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsaggy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithsaggy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithsaggy)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 😂 Random Dev Meme
+<img src="https://imgflip.com/ai-meme" width="512px"/>
+
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codewithsaggy) 
+
 ---
 ![](https://visitcount.itsvg.in/api?id=codewithsaggy&icon=0&color=0)
